@@ -1,0 +1,165 @@
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 1
+Enter Roll Number: 101
+Enter Student Name: yamuna
+Enter Grade/Class: 9
+
+Student Added Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 1
+Enter Roll Number: 102
+Enter Student Name: ramya
+Enter Grade/Class: 9
+
+Student Added Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 1
+Enter Roll Number: 103
+Enter Student Name: seetha
+Enter Grade/Class: 9
+
+Student Added Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 1
+Enter Roll Number: 104
+Enter Student Name: mithra
+Enter Grade/Class: 9
+
+Student Added Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 1
+Enter Roll Number: 105
+Enter Student Name: reeta
+Enter Grade/Class: 9
+
+Student Added Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 2
+
+--- Student Records ---
+Roll: 101 | Name: yamuna | Grade: 9
+Roll: 102 | Name: ramya | Grade: 9
+Roll: 103 | Name: seetha | Grade: 9
+Roll: 104 | Name: mithra | Grade: 9
+Roll: 105 | Name: reeta | Grade: 9
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 3
+Enter Roll Number to Search: 103
+
+Student Found: Roll: 103 | Name: seetha | Grade: 9
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 5
+Enter Roll Number to Update: 103
+Enter New Details:
+New Name: tanisha
+New Grade: 9
+
+Record Updated Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 2
+
+--- Student Records ---
+Roll: 101 | Name: yamuna | Grade: 9
+Roll: 102 | Name: ramya | Grade: 9
+Roll: 103 | Name: tanisha | Grade: 9
+Roll: 104 | Name: mithra | Grade: 9
+Roll: 105 | Name: reeta | Grade: 9
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 4
+Enter Roll Number to Delete: 104
+
+Student Record Deleted Successfully!
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 2
+
+--- Student Records ---
+Roll: 101 | Name: yamuna | Grade: 9
+Roll: 102 | Name: ramya | Grade: 9
+Roll: 103 | Name: tanisha | Grade: 9
+Roll: 105 | Name: reeta | Grade: 9
+
+==== Student Management System ====
+1. Add Student
+2. View All Students
+3. Search Student
+4. Delete Student
+5. Update Student
+6. Exit
+Enter Your Choice: 6
+Exiting Program... Thank you!
